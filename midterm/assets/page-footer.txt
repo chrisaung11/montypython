@@ -1,0 +1,6 @@
+<!-- This is the bottom of the template. 
+    This file is intentionally incomplete  -->
+    </div> 
+</body>
+
+</html>

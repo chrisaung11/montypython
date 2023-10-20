@@ -1,0 +1,11 @@
+1. If you are missing 'page-head.txt' file, the program will show an error message and halt. A 'FileNotFoundError' will show up.
+
+2. To change how the webpage looks, you can make changes directly to the `assets/styles.css` file. You can also change the layout in the `page-head.txt` and `page-footer.txt` files as needed with html/css/js.
+
+3. You can make many webpages without requiring user input if you have a CSV or other acceptable file format. The program can read this file and create webpages based off the data in the file.
+
+4. If you want to moving Files from 'assets', the program will not be able to find them and have error. You need to update the file path to show the program where to look.
+
+5. The page-footer.txt contains the bottom part of the webpage. It is placed separatelyso you can make changes without affecting the content.
+
+6. The webpage needs to be built in the specified sequence, the top, middle and the bottom/footer. This ensures that the content and webpage wil have the correct layout and the content will be placed correctly.
